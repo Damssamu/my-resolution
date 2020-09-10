@@ -1,0 +1,4 @@
+Resolusi tahun 2020
+- Mastering ccs flexbox dan grid
+- Mastering javscript, kalo bisa udah nyoba framework
+- Membuat website sederhana untuk perayaan ulang tahun IZ*ONE yang ke-2 (29 September 2020)
